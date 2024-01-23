@@ -1,0 +1,11 @@
+.aboutLists li{
+    list-style: none;
+    color:#dfdede;
+    font-weight: 500;
+    font-size: 16px;
+}
+.aboutLists span{    
+    color:#318AF7;    
+    font-size: 25px;
+    padding-right: 10px;
+}

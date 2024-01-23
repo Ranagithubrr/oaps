@@ -1,0 +1,36 @@
+.post-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.post-title {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.post-metadata {
+    font-size: 14px;
+    color: #808080;
+    margin-bottom: 20px;
+}
+
+.post-description {
+    font-size: 18px;
+    line-height: 1.5;
+    color:#d1d1d1;
+}
+
+.post-container h1 {
+    color: #ffffff;
+}
+
+
+.post-container a {
+    color: #66c2ff;
+    text-decoration: underline;
+}
+
+.post-container a:hover {
+    color: #3399ff;
+}
