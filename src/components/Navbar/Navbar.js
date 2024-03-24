@@ -35,7 +35,7 @@ const Navbar = () => {
                             <h4>Tech-Driven Solutions for Empowering Development</h4>
                         </div>
                         <div className="topbarRight">                            
-                            <div><span> <MdEmail /></span> <a href="mailto:dev@gmail.com">overseasadvisors@gmail.com</a> </div>
+                            <div><span> <MdEmail /></span> <a href="mailto:info@theoaps.com">info@theoaps.com</a> </div>
                         </div>
                     </div>
                 </div>

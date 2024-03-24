@@ -12,6 +12,7 @@ import Insightspage from './Pages/Insightspage';
 import Contactpage from './Pages/Contactpage';
 import BlogDetail from './Pages/BlogDetail';
 import Copyright from './components/Copyright/Copyright';
+import ThankyouPage from './Pages/ThankyouPage';
 
 function App() {
   useEffect(() => {
@@ -30,6 +31,7 @@ function App() {
         <Route path="/insights" element={<Insightspage />} />
         <Route path="/contact" element={<Contactpage />} />
         <Route path="/blog/:id" element={<BlogDetail />} />
+        <Route path="/thankyou" element={<ThankyouPage />} />
       </Routes>
       {/* <Footer /> */}
       <Copyright />
